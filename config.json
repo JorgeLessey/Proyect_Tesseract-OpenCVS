@@ -1,0 +1,10 @@
+{
+    "texto_objetivo_1": "is requesting a trade.",
+    "sonido_alerta_1": "beep-warning-6387.mp3",
+    "intervalo_escaneo": 0.1,
+    
+    "texto_objetivo_2": "ANTI-Dualbox",
+    "sonido_alerta_2": "beep-warning-6387.mp3",
+
+    "monitor_seleccionado": "1"
+}
